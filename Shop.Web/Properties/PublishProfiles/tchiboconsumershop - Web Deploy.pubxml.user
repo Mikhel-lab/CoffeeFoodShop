@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAARJfu50J7iE2v0pbNonxOfgAAAAACAAAAAAAQZgAAAAEAACAAAAAVet1uZ9JPz1YVaUcgZ1YZ7q88X3pBZqmxv2P/KtRh5gAAAAAOgAAAAAIAACAAAAD0brJwueYmie6EVZ6ngUeyQSGpYzsGLRWZkMLmoZBQWoAAAAADSzaMwvUNmYhaLe8BuNmTSBIY9ZLR+BZdHKQMy1qrVvpWGWVTbYWv9R1ZTADtEeMXGjCuDbN7zMKkU8E8f7Py0NZqeVhOtchwf/l44NVYC+OVBLC6vrUTUNOODTpke5bh9hd0LXk9rlNwX/rrStAZsym+8LOIXDDZ4taIkjvV5EAAAABStVlSlP88XC5DKdrOtrIV2qqVyCyeJIXQCN7AJOQofH4VpjOKuGzannO9bWX/nQQvxjoke7Rwp6igGkoR7UR7</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="dbConnection">
+      <Value>Data Source=tcp:tchiboshopserver.database.windows.net,1433%3bInitial Catalog=tchiboshop_db%3bUser Id=tchiboshop%40tchiboshopserver%3bPassword=%40Gun23456</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="Shop.Data.ApplicationDbContext">
+      <Value>Data Source=tcp:tchiboshopserver.database.windows.net,1433%3bInitial Catalog=tchiboshop_db%3bUser Id=tchiboshop%40tchiboshopserver%3bPassword=%40Gun23456</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="tchiboconsumershop" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\CoffeeFoodStore\\Shop\.Web\\obj\\Release\\netcoreapp2\.2\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="Shop.Data.ApplicationDbContext" description="" value="Data Source=tcp:tchiboshopserver.database.windows.net,1433;Initial Catalog=tchiboshop_db;User Id=tchiboshop@tchiboshopserver;Password=@Gun23456" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\CoffeeFoodStore\\Shop\.Web\\obj\\Release\\netcoreapp2\.2\\PubTmp\\EFSQLScripts\\Shop\.Data\.ApplicationDbContext\.sql$" />
+  </parameter>
+</parameters>

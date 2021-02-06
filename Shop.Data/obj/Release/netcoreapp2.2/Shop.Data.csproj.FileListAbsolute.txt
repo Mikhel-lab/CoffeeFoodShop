@@ -1,0 +1,12 @@
+C:\CoffeeFoodStore\Shop.Data\bin\Release\netcoreapp2.2\Shop.Data.deps.json
+C:\CoffeeFoodStore\Shop.Data\bin\Release\netcoreapp2.2\Shop.Data.runtimeconfig.json
+C:\CoffeeFoodStore\Shop.Data\bin\Release\netcoreapp2.2\Shop.Data.runtimeconfig.dev.json
+C:\CoffeeFoodStore\Shop.Data\bin\Release\netcoreapp2.2\Shop.Data.dll
+C:\CoffeeFoodStore\Shop.Data\bin\Release\netcoreapp2.2\Shop.Data.pdb
+C:\CoffeeFoodStore\Shop.Data\obj\Release\netcoreapp2.2\Shop.Data.AssemblyInfoInputs.cache
+C:\CoffeeFoodStore\Shop.Data\obj\Release\netcoreapp2.2\Shop.Data.AssemblyInfo.cs
+C:\CoffeeFoodStore\Shop.Data\obj\Release\netcoreapp2.2\Shop.Data.csproj.CoreCompileInputs.cache
+C:\CoffeeFoodStore\Shop.Data\obj\Release\netcoreapp2.2\Shop.Data.dll
+C:\CoffeeFoodStore\Shop.Data\obj\Release\netcoreapp2.2\Shop.Data.pdb
+C:\CoffeeFoodStore\Shop.Data\obj\Release\netcoreapp2.2\Shop.Data.genruntimeconfig.cache
+C:\CoffeeFoodStore\Shop.Data\obj\Release\netcoreapp2.2\Shop.Data.csprojAssemblyReference.cache
